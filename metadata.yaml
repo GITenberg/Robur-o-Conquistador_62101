@@ -1,10 +1,13 @@
 _repo: Robur-o-Conquistador_62101
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ayres, Christovam
     gutenberg_agent_id: '51769'
     url: http://www.gutenberg.org/2009/agents/51769
+covers:
+- cover_type: archival
+  image_path: 62101-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -21,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62101#Robur-o-Conquistador
 gutenberg_issued: '2020-05-11'
 gutenberg_type: Text
 identifiers:
